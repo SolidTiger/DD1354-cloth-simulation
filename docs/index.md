@@ -14,4 +14,4 @@ In our project we work with stretch goals you can see the status here and in our
 
 ### Blog
 The project includes upp to date blog posts
-1. First blog
+1. [First blog](https://solidtiger.github.io/DD1354-cloth-simulation/Blog1)
