@@ -1,7 +1,7 @@
 # Blog 6/3-21
 ## Sphere Collision
 ### Our own idéa
-In our first attempt to implement collision we thought up an idéa to implement the normal force when a grid point is inside a sphere. And then add that force in our RK4 implementatiom. This did not work well. The result was bannanas.
+In our first attempt to implement collision we thought up an idéa to implement the normal force when a grid point is inside a sphere. And then add that force in our RK4 implementatiom. This did not work well. The result was bananas.
 ![Bannana](./img/Screenshot from 2021-03-06 16-16-08.png)
 
 ### Someone elses implementation
