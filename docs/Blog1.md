@@ -1,7 +1,7 @@
 # Blog 26/2-21
 ## Mesh generation
 ### Grid of points
-For our project we decided that we should simulate a piece of cloth with a mass spring system in a grid. So first we made some code to generate some unity **GameObject**s int a grid. We also added some **Gizmos** to show where the points where.
+For our project we decided that we should simulate a piece of cloth with a mass spring system in a grid. So first we made some code to generate some unity **GameObject**s in a grid. We also added some **Gizmos** to show where the points where.
 ![image](./img/Screenshot from 2021-03-06 15-00-17.png)
 
 
