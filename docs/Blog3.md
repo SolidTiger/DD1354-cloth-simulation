@@ -5,4 +5,4 @@ Our first problem with the RK4 method is that it is for solving first order diff
 ![Eskil](./img/20210225_171505.jpg)
 
 ### RK4
-After we had firguered out how to do it. We moved on to implement this in code. It took some time and we mixed upp which variable where which in the ODE system which led to some bugs but in the end we came upp with something that worked. The final result looked a lot like before but now we could have a much higher stiffness in the springs.
+After we had firguered out how to do it. We moved on to implement this in code. It took some time and we mixed up which variable where which in the ODE system which led to some bugs but in the end we came up with something that worked. The final result looked a lot like before but now we could have a much higher stiffness in the springs.
